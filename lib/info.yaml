@@ -18,6 +18,12 @@ health:
   :0: eyes http://www.10gkb.by/index.php/otdeleniya/18-ambulatornye-otdeleniya/72-oftalmologicheskoe-konsultativno-diagnosticheskoe-otdelenie-uchebnyj-korpus-tsokolnyj-etazh-kabinety-13-22
   :1: legs
   :2: face
+  :3: snuffle
 help:
-  :0: sany bashrc
-  :1: window for father
+  :0: window for father
+laptop:
+  :0: keyboard
+  :1: touchpad
+  :2: monitor
+  :3: paste
+  :4: RAM + 4

@@ -72,7 +72,14 @@ end
 def delete_plan
   $check_key_existence.call
   INFO[$hash].delete $key.to_sym
+  reindex_hash
   print_hash_info
+end
+
+def reindex_hash
+  new_hash = {}
+  INFO[$hash].each_with_index { |(k,v),index| new_hash[index.to_s.to_sym] = v }
+  INFO[$hash] = new_hash
 end
 
 def add
@@ -82,8 +89,7 @@ end
 
 def add_hash
   INFO[$hash] = {}
-  add_plan if !$value.nil?
-  print_all_info
+  !$value.nil? ? add_plan : print_all_info
 end
 
 def add_plan

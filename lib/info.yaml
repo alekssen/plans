@@ -6,6 +6,7 @@ life:
   :3: powder for shoes
   :4: dollars cart
   :5: lightbulb
+  :6: change tariff of the mts phone
 work:
   :0: crontab
   :1: elaticsearch
@@ -14,3 +15,5 @@ piano:
   :1: 'mark: yamaha np-11'
 health:
   :0: eyes http://www.10gkb.by/index.php/otdeleniya/18-ambulatornye-otdeleniya/72-oftalmologicheskoe-konsultativno-diagnosticheskoe-otdelenie-uchebnyj-korpus-tsokolnyj-etazh-kabinety-13-22
+  :1: legs
+  :2: face

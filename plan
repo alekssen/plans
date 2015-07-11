@@ -1,0 +1,15 @@
+#! /usr/bin/env ruby
+# require "pry"
+require "mechanize"
+require "colorize"
+require "yaml"
+
+PROJECT_PATH = '/home/aleks/Documents/plans'
+Dir["#{PROJECT_PATH}/**/*rb"].each { |file| require_relative file }
+
+HASHES = []
+INFO = {}
+
+before_action
+action
+after_action

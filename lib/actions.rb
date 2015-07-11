@@ -28,7 +28,6 @@ def which_action
   elsif ARGV[0] == '-a' then add
   elsif ARGV[0] == '-r' then rename
   elsif ARGV[0] == '-h' then help
-  elsif ARGV[0] == 'update' then update_info
   elsif HASHES.include?(ARGV[0]) then print_hash_info
   else print_all_info
   end
@@ -47,6 +46,7 @@ end
 def rename_plan
   $check_key_existence.call
   INFO[$hash][$key.to_sym] = get_name
+  print_hash_info
 end
 
 def get_name

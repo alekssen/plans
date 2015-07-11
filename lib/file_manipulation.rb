@@ -7,7 +7,9 @@ end
 def update_info
   a = Mechanize.new
   a.get('https://www.dropbox.com/home') do |page|
+
     puts page
+
   end
 end
 

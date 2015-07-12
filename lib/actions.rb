@@ -47,7 +47,6 @@ def rename_plan
   $check_key_existence.call
   INFO[$hash][$key.to_sym] = get_name
   print_hash_info
-
 end
 
 def get_name

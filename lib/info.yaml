@@ -1,10 +1,8 @@
 ---
 life:
-  :0: present for Vika
-  :1: one day in dzerginsk
-  :2: boots repair
-  :3: dollars cart
-  :4: bulb http://www.svetilnik.by/cgi-bin/basket.pl
+  :0: one day in dzerginsk
+  :1: boots repair
+  :2: dollars cart
 work:
   :0: crontab
   :1: elaticsearch
@@ -19,23 +17,17 @@ health:
   :2: face
   :3: snuffle
 help:
-  :0: window for father
+  :0: amin hostel
 laptop:
   :0: keyboard http://book-labb.ru/razborka_asus_k52j.html
   :1: touchpad
   :2: monitor
-  :3: paste
-  :4: RAM + 4
-  :5: http://citybook.by/remont-noutbukov/remont-noutbukov-asus/
+  :3: RAM + 4
+  :4: http://citybook.by/remont-noutbukov/remont-noutbukov-asus/
 books:
   :0: Three man in a boat, to say nothing of the dog
   :1: Body language http://oz.by/books/more1016810.html
 tourism:
   :0: tent http://catalog.onliner.by/tents/sol/tourist2/reviews
   :1: sleeping bag http://unishop.by/items/fora-double_sbds-12-023.html
-gomel:
-  :0: flats http://gohome.by/ads/view/31241, http://gohome.by/ads/view/86552, http://gohome.by/ads/view/12238
-  :1: flats map http://map.by/streets/%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C/%D0%A0/%D0%A0%D0%BE%D0%B3%D0%B0%D1%87%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB%D0%B8%D1%86%D0%B0/2,
-    http://map.by/streets/%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C/%D0%9F/%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82+%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B/25
-  :2: 'train to gomel: http://rasp.rw.by/ru/train/?train=616%D0%91&date=2015-07-18&from=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA-%D0%9F%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9&to=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C-%D0%9F%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9,
-    to minsk: http://rasp.rw.by/ru/train/?train=615%D0%91&date=2015-07-19&from=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C-%D0%9F%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9&to=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA'
+gomel: {}

@@ -1,12 +1,10 @@
 ---
 life:
-  :0: one day in dzerginsk
-  :1: dollars cart
-  :2: smartphone
+  :0: dollars cart
+  :1: smartphone
 work:
   :0: crontab
   :1: elaticsearch
-  :2: terminal in subl
 piano:
   :0: 'teachers:  http://dm.by/minsk/search/result.aspx\?keywords\=%D0%B8%D0%B3%D1%80%D1%8B+%D0%BD%D0%B0+%D1%84%D0%BE%D1%80%D1%82%D0%B5%D0%BF%D0%B8%D0%B0%D0%BD%D0%BE'
   :1: norman monat
@@ -15,8 +13,7 @@ health:
   :1: legs
   :2: face
   :3: snuffle
-help:
-  :0: amin hostel
+help: {}
 laptop:
   :0: touchpad
   :1: monitor

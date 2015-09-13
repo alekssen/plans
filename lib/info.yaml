@@ -1,7 +1,6 @@
 ---
 life:
   :0: dollars cart
-  :1: smartphone
 work:
   :0: crontab
   :1: elaticsearch
@@ -20,9 +19,7 @@ laptop:
   :2: RAM + 4
   :3: http://citybook.by/remont-noutbukov/remont-noutbukov-asus/
 books:
-  :0: Three man in a boat, to say nothing of the dog
-  :1: Body language http://oz.by/books/more1016810.html
+  :0: Body language http://oz.by/books/more1016810.html
 tourism:
   :0: tent http://catalog.onliner.by/tents/sol/tourist2/reviews
   :1: sleeping bag http://unishop.by/items/fora-double_sbds-12-023.html
-gomel: {}
